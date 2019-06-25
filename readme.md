@@ -1,6 +1,6 @@
 # Pig Dice Game
 
-#### _A web site that outputs responses based on an input number - June 14, 2019_
+#### _This web site is used to play the game Pig Dice. - June 14, 2019_
 
 #### _By **Na Hyung Choi and Jessica Munoz**_
 
